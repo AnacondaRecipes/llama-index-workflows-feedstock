@@ -1,4 +1,2 @@
-channels:
-  - https://staging.continuum.io/pbp/fs/llama-index-instrumentation-feedstock/pr1/38f377c
 build_env_vars:
   ANACONDA_ROCKET_ENABLE_PY314 : yes
