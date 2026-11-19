@@ -50,7 +50,7 @@ about:
   license_file: LICENSE
   license_family: MIT
   doc_url: https://developers.llamaindex.ai/python/llamaagents/workflows/
-  dev_url: https://github.com/run-llama/workflows-py/tree/llama-index-workflows@2.26.1/packages/llama-index-workflows
+  dev_url: https://github.com/run-llama/workflows-py/tree/main/packages/llama-index-workflows
 
 extra:
   recipe-maintainers:
